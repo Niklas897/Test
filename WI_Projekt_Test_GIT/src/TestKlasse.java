@@ -5,6 +5,7 @@ public class TestKlasse {
 		// TODO Auto-generated method stub
 		System.out.println("Bernd das Brot ist toll!");
 		System.out.println("Tim is schwul!");
+		System.out.println("TIm hat einen kleinen schwanz!!!!!!!!!!!!!!!!!");
 	}
 
 }
